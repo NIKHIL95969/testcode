@@ -1,4 +1,5 @@
-import Image from "next/image";
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+
 import { Portfolio } from "./Portfolio";
 
 export default function Home() {
